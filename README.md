@@ -8,6 +8,10 @@
 
 ---
 
+![Snake animation](https://github.com/Katsuhkay/snk/raw/output/github-contribution-grid-snake.gif)
+
+---
+
 ## 🚀 Sobre mim
 
 - 👨‍💻 Estudante de **Engenharia de Software** – 4º semestre.
