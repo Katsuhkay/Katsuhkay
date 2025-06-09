@@ -74,7 +74,7 @@
 
 ## 🤝 Vamos conectar?
 
-- [LinkedIn](#) *(https://www.linkedin.com/in/alex-magalhaes-lkn/)*
+- [LinkedIn](https://www.linkedin.com/in/alex-ramos-lkn/)
 - 📫 Email: *(alex_magalhaes13@hotmail.com)*
 
 ---
