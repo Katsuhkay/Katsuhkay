@@ -41,6 +41,8 @@
   - **Gulp**
   - **SASS**
   - **GitHub**
+  - **Tailwind**
+  - **React**
 
 ---
 
